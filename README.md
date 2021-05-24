@@ -2,7 +2,7 @@
 
 
 
-### All the techniques of handling ,missing values
+### All the techniques of handling missing values
 
 1. Mean/ Median/Mode imputation
 2. Random Sample Imputation
